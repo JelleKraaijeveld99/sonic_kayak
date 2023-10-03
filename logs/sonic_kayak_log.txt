@@ -1,6 +1,6 @@
 Log sonic kayak.
 
-Sessie 1: aan het begin van de eerste sessie zijn we gaan zitten en hebben we een concept opgezet. Dit was na 1 sessie nog niet helemaal compleet, we hebben thuis allemaal verder research gedaan en ideeen bedacht. 
+Sessie 1: aan het begin van de eerste sessie zijn we gaan zitten en hebben we een concept opgezet. Dit was na 1 sessie nog niet helemaal compleet, we hebben thuis allemaal verder research gedaan en ideeën bedacht. 
 
 Sessie 2: we het concept afgemaakt en besloten welke sensoren we willen gebruiken om het concept uit te werken. Hierbij hebben we besloten om ons te focussen op GPS. 
 
@@ -13,11 +13,19 @@ Jelle -> drums
 
 Buiten de sessies om kan iedereen zo verder werken op zijn eigen gebied
 
-Sessie 4: nog steeds enigzins bezig met het zoeken naar bruikbare gps-data, aan het einde van deze sessie hadden we een les van Marc en Timo, we hebben alles samen werkend gekregen. Aan het einde van deze sessie hebben we allemaal besloten om in pd te werken.
+Sessie 4: nog steeds enig zins bezig met het zoeken naar bruikbare gps-data, aan het einde van deze sessie hadden we een les van Marc en Timo, we hebben alles samen werkend gekregen. Aan het einde van deze sessie hebben we allemaal besloten om in pd te werken.
 
 Sessie 5: het testen van de inkomende gps data was ons eerste doel. We zijn rondjes gaan lopen en Jens is een locatie gaan zoeken die we als startpunt kunnen gebruiken. De data bleek te kloppen en kwam overeen met de coordinaten die op google maps staan. Verder is Ruben een systeem gaan ontwikkelen waarmee we kunnen bijhouden of iemand een bepaalde biome is. Jelle heeft de drums verder uitgewerkt. 
 
+Sessie 6: dingen gingen wat minder goed, de pi kregen we niet meer opgestart en deze sessie was vooral bugs fixen. Uiteindelijk wel veel opgeschoten.
 
+Sessie 7: verder gewerkt aan de gps en de drums.
+
+Sessie 8: te horen gekregen dat Kasper eventueel niet meer mee zou werken aan het project. Overleg gepleegd en een nieuwe taakverdeling gemaakt. Het was nodig om duidelijke doelen te stellen voor de komende weken. We gaan ons nu focussen op het maken van een eerste prototype. Jens en Ruben hebben aan de gps gewerkt en Jelle aan de drums.
+
+Sessie 9: verder gewerkt aan de gps en sound design van de biomes
+
+Sessie 10: werken aan het prototype
 
 
 De eerste sessie zijn we met zn alle de code van de pi ingedoken om te kijken of we de sensoren uit konden lezen
