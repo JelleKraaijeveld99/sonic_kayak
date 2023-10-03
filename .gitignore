@@ -1,0 +1,14 @@
+#ignore ALL .vscode files
+*.vscode
+
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# ignore ALL .o files 
+*.o 
+
+# ignore ALL .s files 
+*.s 
