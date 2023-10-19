@@ -5,7 +5,9 @@ In this repository you can find documentation on the pure data patches we made t
 We recommend recreating the image for the SD card of the PI before implementing the PD patch in the System.
 
 Link to the repos:
+
 Sonic Bike: https://github.com/sonicbikes/sonic-bike-init
+
 Sonic Kayak: https://github.com/fo-am/sonic-kayaks
 
 In short how the system runs.
