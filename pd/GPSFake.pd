@@ -21,10 +21,10 @@
 #X obj 19 8 inlet;
 #X text 63 4 Toggle;
 #X text 82 248 Output fake GPS;
-#X floatatom 166 205 7 0 0 0 - - - 0;
-#X floatatom 231 205 9 0 0 0 - - - 0;
 #X obj 469 35 inlet;
 #X text 520 29 Bang to load gps file;
+#X obj 356 35 loadbang;
+#X text 120 174 Swap the be able to copy the coords from google (in this patch the order is swapped.);
 #X connect 0 0 16 0;
 #X connect 0 1 16 1;
 #X connect 1 0 2 0;
@@ -39,9 +39,8 @@
 #X connect 10 0 11 0;
 #X connect 11 0 0 0;
 #X connect 16 0 17 0;
-#X connect 16 0 21 0;
 #X connect 16 1 17 1;
-#X connect 16 1 22 0;
 #X connect 17 0 15 0;
 #X connect 18 0 3 0;
+#X connect 21 0 1 0;
 #X connect 23 0 1 0;
