@@ -1,4 +1,4 @@
-This project is a framework devoloped by students of the HKU Creative System Design year 2023 named Sonic Echoes. We made a audio immersive journey that is bound by GPS locations near Uncloud Utrecht.
+This project is a framework devoloped by students of the HKU Creative System Design year 2023 named Sonic Echoes. We made a audio immersive journey that is bound by GPS locations near Uncloud Utrecht. The idea is to have multiple biomes that contain audio files that get played if you get closer to them. There are also triggers, that act like one shots that get triggered once you "catch" them. Everything gets reset once you get near the reset biome. We have included a map with all the different locations.
 
 In this repository you can find documentation on the pure data patches we made that we build on the Sonic Kayak and Sonic Bike repos.
 
