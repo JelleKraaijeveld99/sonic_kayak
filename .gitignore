@@ -12,3 +12,6 @@ temp/
 
 # ignore ALL .s files 
 *.s 
+
+# ignore Mac specific files .DStore
+*.DS_Store
