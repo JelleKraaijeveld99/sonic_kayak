@@ -1,4 +1,4 @@
-This project is a framework devoloped by students of the HKU Creative System Design year 2023 named Sonic Echoes.
+This project is a framework devoloped by students of the HKU Creative System Design year 2023 named Sonic Echoes. We made a audio immersive journey that is bound by GPS locations near Uncloud Utrecht.
 
 In this repository you can find documentation on the pure data patches we made that we build on the Sonic Kayak and Sonic Bike repos.
 
