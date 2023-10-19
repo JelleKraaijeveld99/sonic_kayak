@@ -15,3 +15,6 @@ temp/
 
 # ignore Mac specific files .DStore
 *.DS_Store
+
+# ignore all .wav files to save space.
+*.wav
