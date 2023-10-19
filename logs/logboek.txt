@@ -1,0 +1,47 @@
+logboek Sonic Echoes,
+
+week 1(6/9) intro van het project
+-we zijn deze week eigenlijk begonnen met de introductie van het project hier kregen we te horen wat we gingen doen de komende 7 weken en wat ons te wachten stond. 
+we kregen tijdens en na het varen super veel ideeen en inzichten over wat we wilden gaan doen. 
+wel was het nog niet concreet. we zijn eigenlijk gelijk na de les gaan brainstormen in het lokaal. Hier kwamen meerdere dingen uit maar een soort audio game kwam wel vaak naar voren. 
+Na de tweede sessie in het project lokaal werd duidelijk dat we met gps wilden gaan werken, en een audio visuele ervaring wilden gaan maken op basis van de plek van de rivier.
+We misten alleen nog het stukje connectie met de kayak, hieruit kwam het verhaal van dat de kayak van oorsprong eigenlijk een jachtvoertuig is. Dat je die herrineringen van het voertuig kon ophalen door naar bepaalde plekken te gaan
+
+
+week 2(13/9) concept presentatie
+In deze week presenteerde we wat we de week ervoor hadden bedacht, Positieve feedback ontvangen en op basis daarvan aan de slag gegaan met de gps op de raspberry pi.
+Dit bleek nogal een uitdaging omdat we nog nooit op een PI hadden gewerkt en ook nog eens in een bestaand project moesten gaan zoeken hoe alles werkt en waar alles staat.
+
+week 3(20/9) Hulp van docenten met de PI
+In deze les kwamen marc en timo helpen met de gps logs en met het opstarten van de PI, nou bleek dat de gps aleen werkte als we buiten gingen staan. en had Jens per ongeluk iets verwijderd waardoor de patches niet wouden laden.
+hier ontdekten we dat je pure data headless kan draaien waardoor je de gui niet ziet.(wat later erg handig bleek te zijn)
+
+Deze week is Ruben begonnen met een opzet in Pure data om te kijken of je in range met van een object, ook kan je de range instellen.(zie oude versies als je de pd patch wilt zien)
+
+week 4(27/9) tussetijdse presentatie 
+Na de les van deze week zijn we aan de slag gegaan met een werkend exemplaar van de gps. We hadden buiten een marker gezet tegeover de hku en langzaam fade dan een sinus toon in. 
+Dit was een doorbraak en motiveerde ons erg om aan de slag te gaan met de rest. Hierop hebben we een mockup met placeholder sounds gemaakt voor de volgende presentatie.
+
+
+week 5(4/10) Mockup versie op de straat buiten met timo marc en CCU'er.
+Hier presenteerde we onze eerste werkende versie eigenlijk voor de hku op de stoep. we hadden 4 biomes waar je doorheen kon lopen die in en uitfaden. 
+Dit werkte met het uitfaden wel goed maar infaden versprong hij nog erg, waardoor je schrokkerige audio soms kreeg.
+We kregen een hoop feedback over wat we allemaal zouden kunnen gaan doen met dit project, MAAR we beseften dat na de les we eigenlijk nog maar 2 weken hadden om een eindresultaat te krijgen.
+We zijn gaan afbakennen om de dingen die we hadden erg goed te laten werken ipv veel effecten en sensoren die niet goed werken.
+
+belangerijkste dingen waren
+-gps werkend met mooie fades(we zijn hier opnieuw begonnen met de gps patch om het efficienter en modulair te maken)
+-one shots patch voor de dieren die je kan vinden allong the way
+-soundscapes van jelle 
+-fake gps data om door de biomes heen te lopen zodat we het water niet op hoefden
+-hearthbeat speed voor het zorgen vaan een hartslag als je harder gaat varen.
+-geluiden die uit elkaar vallen als je langer in een biome bent
+-het geheel goed laten samen werken
+
+week 6(11/10)week voor de eindpresentatie
+Hier lieten we zien wat we tot nu toe hadden in de les, en wat er nog moest gebeuren.
+We hebben in de week tot de presentatie hard gewerkt om het eindresultaat te behalen, veel bugfixen en natuurlijk de route en verhaal goed uitstippelen.
+gingen ook een keer op proeftocht om te kijken of alles naar behoren werkt en 
+week 7(18/10) presentatieweek
+
+In deze week presenteerde we onze kayak voor onze projectleiders en mensen van CCU
